@@ -6,5 +6,7 @@ target 'ServicesApp' do
   use_frameworks!
 
   # Pods for ServicesApp
+  # Add the Firebase pod for Google Analytics
+  pod 'FirebaseAnalytics'
 
 end
