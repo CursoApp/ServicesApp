@@ -8,5 +8,6 @@ target 'ServicesApp' do
   # Pods for ServicesApp
   # Add the Firebase pod for Google Analytics
   pod 'FirebaseAnalytics'
-
+  pod 'FirebaseAuth'
+  
 end
